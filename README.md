@@ -3,7 +3,13 @@
 ## What does it do
 Center the selected transform(s) onto the camera view in Maya. Just like in 3DEqualizer.
 
-![img/center3d_compare_120f.gif](img/center3d_compare_120f.gif)
+> ![img/center3d_compare_120f.gif](img/center3d_compare_120f.gif)<br>
+> Image Courtesy of Hollywood Camera Work
+
+## Basic Workflow
+> [![](http://img.youtube.com/vi/YvMR1tohqsg/0.jpg)](http://www.youtube.com/watch?v=YvMR1tohqsg "") <br>
+> [Center3D - Youtube](https://youtu.be/YvMR1tohqsg)
+
 
 ## Installation
 
