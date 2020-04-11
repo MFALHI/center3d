@@ -42,11 +42,11 @@ https://github.com/kohyuk91/center3d
 # e.g) Alt + Shift + C
 """
 import center3d
-reload(center3d)
 center3d.main()
 """
 
 # Versions
+# 0.1.0 - Initial Release (2020.04.11)
 # 0.0.1 - Project start (2018)
 
 

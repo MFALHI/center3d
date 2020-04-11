@@ -6,7 +6,7 @@ Center the selected transform(s) onto the camera view in Maya. Just like in 3DEq
 > ![img/center3d_compare_120f.gif](img/center3d_compare_120f.gif)<br>
 > Image Courtesy of Hollywood Camera Work
 
-## Basic Workflow
+## Video Overview
 > [![](http://img.youtube.com/vi/YvMR1tohqsg/0.jpg)](http://www.youtube.com/watch?v=YvMR1tohqsg "") <br>
 > [Center3D - Youtube](https://youtu.be/YvMR1tohqsg)
 
@@ -15,11 +15,11 @@ Center the selected transform(s) onto the camera view in Maya. Just like in 3DEq
 
 ### 1. Copy `center3d.py` to:
 - Windows
-    > \Users\USERNAME\Documents\maya\scripts
+    > \Users\USERNAME\Documents\maya\MAYAVERSION\prefs\scripts
 - Mac
-    > $HOME/maya/scripts
+    > $HOME/Library/Preferences/Autodesk/maya/MAYAVERSION/prefs/scripts
 - Linux
-    > $HOME/maya/scripts
+    > $HOME/maya/MAYAVERSION/prefs/scripts
 
 ### 2. Set Hotkey
 1. Open **Hotkey Editor** (Windows > Settings/Preferences > Hotkey Editor)
