@@ -7,7 +7,7 @@ Center the selected transform(s) onto the camera view in Maya. Just like in 3DEq
 > Image Courtesy of Hollywood Camera Work
 
 ## Video Overview
-> [![](http://img.youtube.com/vi/YvMR1tohqsg/0.jpg)](http://www.youtube.com/watch?v=YvMR1tohqsg "") <br>
+> [![](http://img.youtube.com/vi/ODW9kjdt-As/0.jpg)](http://www.youtube.com/watch?v=ODW9kjdt-As "") <br>
 > [Center3D - Youtube](https://youtu.be/YvMR1tohqsg)
 
 
